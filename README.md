@@ -39,9 +39,9 @@ It features per-course access control to customize information disclosure to AI,
 
 ## Download Pre-built Binaries
 
-You can download ready-to-use packages from [GitHub Releases](https://github.com/project-sakai-mcp/sakai-tasks-mcp/releases/latest):
-- **Windows**: [sakai-tasks-mcp-windows.zip](https://github.com/project-sakai-mcp/sakai-tasks-mcp/releases/latest/download/sakai-tasks-mcp-windows.zip)
-- **macOS**: [sakai-tasks-mcp-macos.tar.gz](https://github.com/project-sakai-mcp/sakai-tasks-mcp/releases/latest/download/sakai-tasks-mcp-macos.tar.gz)
+You can download ready-to-use packages from [GitHub Releases](https://github.com/sayt25606-rgb/sakai-tasks-mcp/releases/latest):
+- **Windows**: [sakai-tasks-mcp-windows.zip](https://github.com/sayt25606-rgb/sakai-tasks-mcp/releases/latest/download/sakai-tasks-mcp-windows.zip)
+- **macOS**: [sakai-tasks-mcp-macos.tar.gz](https://github.com/sayt25606-rgb/sakai-tasks-mcp/releases/latest/download/sakai-tasks-mcp-macos.tar.gz)
 
 Extract the archive to any directory on your computer.
 
@@ -162,7 +162,7 @@ Add `sakai-tasks` to your AI client's MCP configuration. Replace `<PATH_TO_EXTRA
 
 Contributions and suggestions are warmly welcomed!
 - For setup instructions, testing guidelines, and PR workflow, see [CONTRIBUTING.md](CONTRIBUTING.md).
-- To report bugs or propose improvements, please submit an issue using our [Bug Report Template](https://github.com/project-sakai-mcp/sakai-tasks-mcp/issues/new?template=bug_report.yml).
+- To report bugs or propose improvements, please submit an issue using our [Bug Report Template](https://github.com/sayt25606-rgb/sakai-tasks-mcp/issues/new?template=bug_report.yml).
 
 ---
 
