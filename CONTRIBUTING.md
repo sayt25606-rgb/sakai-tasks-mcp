@@ -5,7 +5,7 @@
 Requirements: Python 3.12+, [uv](https://docs.astral.sh/uv/), Git
 
 ```bash
-git clone https://github.com/project-sakai-mcp/sakai-tasks-mcp.git
+git clone https://github.com/sayt25606-rgb/sakai-tasks-mcp.git
 cd sakai-tasks-mcp
 uv sync
 ```
